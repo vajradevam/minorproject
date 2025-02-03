@@ -6,3 +6,4 @@ seaborn
 statsmodels
 torch
 scipy
+tensorflow
