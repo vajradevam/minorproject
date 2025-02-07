@@ -3,7 +3,11 @@ pandas
 matplotlib
 scikit-learn
 seaborn
+tensorflow
 statsmodels
+shap
+jupyter
+ipywidgets
+xgboost
 torch
 scipy
-tensorflow
