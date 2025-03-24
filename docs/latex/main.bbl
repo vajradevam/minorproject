@@ -1,0 +1,28 @@
+\begin{thebibliography}{1}
+
+\bibitem{mitchell1997machine}
+Tom~M. Mitchell.
+\newblock {\em Machine Learning}.
+\newblock McGraw-Hill, 1997.
+
+\bibitem{murphy2012machine}
+Kevin~P. Murphy.
+\newblock {\em Machine Learning: A Probabilistic Perspective}.
+\newblock MIT Press, 2012.
+
+\bibitem{shalev2014understanding}
+Shai Shalev-Shwartz and Shai Ben-David.
+\newblock {\em Understanding Machine Learning: From Theory to Algorithms}.
+\newblock Cambridge University Press, 2014.
+
+\bibitem{bzdok2018statistics}
+Danilo Bzdok, Naomi Altman, and Martin Krzywinski.
+\newblock Statistics versus machine learning.
+\newblock {\em Nature Methods}, 15(4):233--234, 2018.
+
+\bibitem{pearl2009causal}
+Judea Pearl.
+\newblock {\em Causal Inference in Statistics: A Primer}.
+\newblock Wiley, 2009.
+
+\end{thebibliography}

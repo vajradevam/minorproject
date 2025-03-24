@@ -1,0 +1,40 @@
+\contentsline {chapter}{\numberline {1}Time Series Machine Learning for Household Power Consumption}{5}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Introduction to Machine Learning}{5}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Definitions of Machine Learning}{5}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Sub-Categories of Machine Learning}{6}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.1.3}Related Fields}{6}{subsection.1.1.3}%
+\contentsline {subsection}{\numberline {1.1.4}Applications of Machine Learning}{7}{subsection.1.1.4}%
+\contentsline {subsection}{\numberline {1.1.5}Relevance to Time Series Forecasting}{7}{subsection.1.1.5}%
+\contentsline {section}{\numberline {1.2}Differences Between Time Series and Machine Learning}{7}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Autoregression}{8}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Sliding Window}{8}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Predicting Target or Differences}{9}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}Intuition Behind First Differences}{9}{subsection.1.4.2}%
+\contentsline {section}{\numberline {1.5}Data Preparation and Analysis}{10}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}Cleaning the Dataset}{10}{subsection.1.5.1}%
+\contentsline {subsection}{\numberline {1.5.2}Exploratory Data Analysis}{11}{subsection.1.5.2}%
+\contentsline {subsection}{\numberline {1.5.3}Resampling by Time Unit}{11}{subsection.1.5.3}%
+\contentsline {subsection}{\numberline {1.5.4}Converting to a Supervised Learning Problem}{13}{subsection.1.5.4}%
+\contentsline {section}{\numberline {1.6}Statistical Models}{14}{section.1.6}%
+\contentsline {subsection}{\numberline {1.6.1}Data Preparation and Model Configuration}{14}{subsection.1.6.1}%
+\contentsline {subsection}{\numberline {1.6.2}Forecasting and Evaluation Metrics}{15}{subsection.1.6.2}%
+\contentsline {subsubsection}{Subset Dataset Results}{15}{section*.2}%
+\contentsline {subsubsection}{Full Dataset Results}{15}{section*.3}%
+\contentsline {subsection}{\numberline {1.6.3}Visualization of Forecasts}{15}{subsection.1.6.3}%
+\contentsline {subsection}{\numberline {1.6.4}Discussion}{16}{subsection.1.6.4}%
+\contentsline {section}{\numberline {1.7}Machine Learning Models}{17}{section.1.7}%
+\contentsline {section}{\numberline {1.8}Deep Learning Models}{19}{section.1.8}%
+\contentsline {subsection}{\numberline {1.8.1}Model Architectures}{20}{subsection.1.8.1}%
+\contentsline {subsubsection}{Recurrent Neural Network (RNN)}{20}{section*.4}%
+\contentsline {subsubsection}{Gated Recurrent Unit (GRU)}{20}{section*.5}%
+\contentsline {subsubsection}{Long Short-Term Memory (LSTM)}{20}{section*.6}%
+\contentsline {subsubsection}{Convolutional-LSTM (ConvLSTM)}{20}{section*.7}%
+\contentsline {subsection}{\numberline {1.8.2}Methodology}{21}{subsection.1.8.2}%
+\contentsline {subsection}{\numberline {1.8.3}Performance Evaluation}{21}{subsection.1.8.3}%
+\contentsline {subsubsection}{Results on Subset Dataset}{21}{section*.8}%
+\contentsline {subsubsection}{Results on Full Dataset}{22}{section*.9}%
+\contentsline {subsection}{\numberline {1.8.4}Discussion}{23}{subsection.1.8.4}%
+\contentsline {section}{\numberline {1.9}Interpretation of the Results}{25}{section.1.9}%
+\contentsline {subsection}{\numberline {1.9.1}Subset Dataset Analysis}{25}{subsection.1.9.1}%
+\contentsline {subsection}{\numberline {1.9.2}Full Dataset Analysis}{26}{subsection.1.9.2}%
+\contentsline {subsection}{\numberline {1.9.3}Comparative Insights and Practical Implications}{26}{subsection.1.9.3}%

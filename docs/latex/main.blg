@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2025/Arch Linux)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+A level-1 auxiliary file: titlepage.aux
+A level-1 auxiliary file: aman.aux
+The style file: unsrt.bst
+A level-1 auxiliary file: amit.aux
+A level-1 auxiliary file: adarsh.aux
+A level-1 auxiliary file: akash.aux
+Database file #1: references_aman.bib
+You've used 5 entries,
+            1791 wiz_defined-function locations,
+            479 strings with 4111 characters,
+and the built_in function-call counts, 875 in all, are:
+= -- 73
+> -- 31
+< -- 0
++ -- 13
+- -- 8
+* -- 38
+:= -- 144
+add.period$ -- 15
+call.type$ -- 5
+change.case$ -- 1
+chr.to.int$ -- 0
+cite$ -- 5
+duplicate$ -- 49
+empty$ -- 101
+format.name$ -- 8
+if$ -- 199
+int.to.chr$ -- 0
+int.to.str$ -- 5
+missing$ -- 9
+newline$ -- 28
+num.names$ -- 5
+pop$ -- 29
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 12
+stack$ -- 0
+substring$ -- 25
+swap$ -- 5
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 7
+width$ -- 6
+write$ -- 53
