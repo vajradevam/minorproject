@@ -51,3 +51,14 @@
 \contentsline {subsection}{\numberline {2.4.2}Distribution of Closing Price Differences}{31}{subsection.2.4.2}%
 \contentsline {subsection}{\numberline {2.4.3}Model Comparison}{32}{subsection.2.4.3}%
 \contentsline {section}{\numberline {2.5}Conclusion}{33}{section.2.5}%
+\contentsline {chapter}{\numberline {3}Walmart Recruiting - Store Sales Forecasting}{35}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introduction}{35}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Tools Used in Sales Forecasting}{35}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Data Overview}{36}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Output Analysis}{37}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Detailed Explanation of Tools and Outputs}{39}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}ARIMA Model}{39}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}XGBoost Model}{39}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.5.3}LSTM Model}{39}{subsection.3.5.3}%
+\contentsline {section}{\numberline {3.6}Humanized Perspective}{40}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Discussion}{40}{section.3.7}%
