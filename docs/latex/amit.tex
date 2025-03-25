@@ -35,23 +35,23 @@ SARIMA, or Seasonal AutoRegressive Integrated Moving Average, is a time-series f
 
 \subsection{Actual vs Predicted Closing Prices}
 In figures Figures \ref{fig:lstm}, \ref{fig:rf}, and \ref{fig:sarima} comaring actual vs predicted closing price diffrences for Lstm,rf and sarima models 
-\begin{figure}[H]
+\begin{figure}[h]
     \centering
-    \includegraphics[width=0.8\textwidth]{actual_vs_predicted.png}
+    \includegraphics[width=0.8\textwidth]{./figures_amit/actual_vs_predicted.png}
     \caption{Actual vs Predicted Closing Price Differences - LSTM}
     \label{fig:lstm}
 \end{figure}
 
-\begin{figure}[H]
+\begin{figure}[h]
     \centering
-    \includegraphics[width=0.8\textwidth]{actual_vs_predicted_rf.png}
+    \includegraphics[width=0.8\textwidth]{./figures_amit/actual_vs_predicted_rf.png}
     \caption{Actual vs Predicted Closing Price Differences - Random Forest}
     \label{fig:rf}
 \end{figure}
 
-\begin{figure}[H]
+\begin{figure}[h]
     \centering
-    \includegraphics[width=0.8\textwidth]{actual_vs_predicted_sarima.png}
+    \includegraphics[width=0.8\textwidth]{./figures_amit/actual_vs_predicted_sarima.png}
     \caption{Actual vs Predicted Closing Price Differences - SARIMA}
     \label{fig:sarima}
 \end{figure}
@@ -59,9 +59,9 @@ In figures Figures \ref{fig:lstm}, \ref{fig:rf}, and \ref{fig:sarima} comaring a
 \subsection{Distribution of Closing Price Differences}
 In figure \ref{fig:dist} it showing the distrubution of closing price difference ,which have some outliers indicating large price swings
 
-\begin{figure}[H]
+\begin{figure}[h]
     \centering
-    \includegraphics[width=0.8\textwidth]{distribution_closing_price_diff.png}
+    \includegraphics[width=0.8\textwidth]{./figures_amit/distribution_closing_price_diff.png}
     \caption{Distribution of Closing Price Differences}
     \label{fig:dist}
 \end{figure}
@@ -88,9 +88,9 @@ In figure \ref{fig:comparison} a bar chart comparing all model performaces using
         \end{itemize}
 \end{itemize}
 
-\begin{figure}[H]
+\begin{figure}[h]
     \centering
-    \includegraphics[width=0.8\textwidth]{model_comparison_train.png}
+    \includegraphics[width=0.8\textwidth]{./figures_amit/model_comparison_train.png}
     \caption{Model Performance Comparison}
     \label{fig:comparison}
 \end{figure}
@@ -102,4 +102,3 @@ Based on  data performance analysis supports the following results:\begin{itemiz
 \end{itemize}
 
 In summary, \textbf{SARIMA} does not perform well on  training dataset, while \textbf{ Random Forest and LSTM} perform well on the training dataset.
-\end{document}
