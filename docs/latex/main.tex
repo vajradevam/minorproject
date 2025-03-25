@@ -1,0 +1,56 @@
+\documentclass[a4paper, 12pt]{report}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{shadowtext}
+
+\hypersetup{
+	colorlinks=true,       % Enable colored links
+	linkcolor=blue,        % Color for internal links (e.g., sections, figures)
+	filecolor=magenta,     % Color for file links
+	urlcolor=cyan,         % Color for URLs
+	citecolor=blue,       % Color for citations
+}
+
+\usepackage{geometry}
+\usepackage{cite}
+
+\usepackage{fancyhdr} % For running headers
+
+\pagestyle{fancy}
+\fancyhf{} % Clear default settings
+\fancyhead[LO]{\leftmark} % Left-side header (odd pages)
+\fancyhead[RE]{\rightmark} % Right-side header (even pages)
+\fancyfoot[C]{\thepage} % Page number at the center footer
+
+\geometry{margin=1in}
+
+\begin{document}
+	
+	\include{titlepage.tex}
+	
+	\newpage
+	\begin{center}
+		\Large \textbf{SCHOOL OF COMPUTER ENGINEERING} \\[0.5cm]
+		\Large \textbf{KALINGA INSTITUTE OF INDUSTRIAL TECHNOLOGY} \\[0.5cm]
+		\large BHUBANESWAR, ODISHA - 751024 \\[1cm]
+		\large April 2025
+	\end{center}
+	
+	\include{acknowledgement.tex}
+	
+
+	\include{abstract.tex}
+	
+	
+	\tableofcontents
+	
+	\include{aman.tex}
+	\include{amit.tex}
+	\include{adarsh.tex}
+	\include{akash.tex}
+	
+\end{document}
