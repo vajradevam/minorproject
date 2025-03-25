@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Arch Linux) (preloaded format=pdflatex 2025.3.21)  25 MAR 2025 13:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Arch Linux) (preloaded format=pdflatex 2025.3.21)  25 MAR 2025 22:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -453,7 +453,7 @@ Package hyperref Info: Link coloring ON on input line 31.
 \openout2 = `titlepage.aux'.
 
 (./titlepage.tex
-<./assets/bw_kiit.png, id=184, 1086.0575pt x 797.98125pt>
+<./assets/bw_kiit.png, id=229, 1086.0575pt x 797.98125pt>
 File: ./assets/bw_kiit.png Graphic file (type png)
 <use ./assets/bw_kiit.png>
 Package pdftex.def Info: ./assets/bw_kiit.png  used on input line 35.
@@ -613,32 +613,32 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.05003pt}.
 
 [11]
-<./figures_aman/global_active_power_over_time.png, id=313, 834.7185pt x 395.316
+<./figures_aman/global_active_power_over_time.png, id=369, 834.7185pt x 395.316
 9pt>
 File: ./figures_aman/global_active_power_over_time.png Graphic file (type png)
 <use ./figures_aman/global_active_power_over_time.png>
 Package pdftex.def Info: ./figures_aman/global_active_power_over_time.png  used
  on input line 123.
 (pdftex.def)             Requested size: 317.07614pt x 150.16768pt.
-<./figures_aman/voltage_trends_over_time.png, id=314, 841.2228pt x 395.3169pt>
+<./figures_aman/voltage_trends_over_time.png, id=370, 841.2228pt x 395.3169pt>
 File: ./figures_aman/voltage_trends_over_time.png Graphic file (type png)
 <use ./figures_aman/voltage_trends_over_time.png>
 Package pdftex.def Info: ./figures_aman/voltage_trends_over_time.png  used on i
 nput line 130.
 (pdftex.def)             Requested size: 407.66833pt x 191.57162pt.
-<./figures_aman/sub_metering_patterns.png, id=315, 834.7185pt x 395.3169pt>
+<./figures_aman/sub_metering_patterns.png, id=371, 834.7185pt x 395.3169pt>
 File: ./figures_aman/sub_metering_patterns.png Graphic file (type png)
 <use ./figures_aman/sub_metering_patterns.png>
 Package pdftex.def Info: ./figures_aman/sub_metering_patterns.png  used on inpu
 t line 137.
 (pdftex.def)             Requested size: 317.07614pt x 150.16768pt.
-<./figures_aman/rolling_mean_std.png, id=316, 834.7185pt x 395.3169pt>
+<./figures_aman/rolling_mean_std.png, id=372, 834.7185pt x 395.3169pt>
 File: ./figures_aman/rolling_mean_std.png Graphic file (type png)
 <use ./figures_aman/rolling_mean_std.png>
 Package pdftex.def Info: ./figures_aman/rolling_mean_std.png  used on input lin
 e 144.
 (pdftex.def)             Requested size: 317.07614pt x 150.16768pt.
-<./figures_aman/seasonal_decomposition_full.png, id=317, 455.301pt x 339.669pt>
+<./figures_aman/seasonal_decomposition_full.png, id=373, 455.301pt x 339.669pt>
 
 File: ./figures_aman/seasonal_decomposition_full.png Graphic file (type png)
 <use ./figures_aman/seasonal_decomposition_full.png>
@@ -665,7 +665,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [13 <./figures_aman/voltage_trends_over_time.png> <./figures_aman/sub_metering_
 patterns.png> <./figures_aman/rolling_mean_std.png>]
-<./figures_aman/daily_global_active_power.png, id=338, 712.5822pt x 406.8801pt>
+<./figures_aman/daily_global_active_power.png, id=393, 712.5822pt x 406.8801pt>
 
 File: ./figures_aman/daily_global_active_power.png Graphic file (type png)
 <use ./figures_aman/daily_global_active_power.png>
@@ -683,7 +683,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [14 <./figures_aman/seasonal_decomposition_full.png> <./figures_aman/daily_glob
 al_active_power.png>]
-<./figures_aman/correlation_matrix.png, id=347, 570.2103pt x 484.9317pt>
+<./figures_aman/correlation_matrix.png, id=402, 570.2103pt x 484.9317pt>
 File: ./figures_aman/correlation_matrix.png Graphic file (type png)
 <use ./figures_aman/correlation_matrix.png>
 Package pdftex.def Info: ./figures_aman/correlation_matrix.png  used on input l
@@ -708,14 +708,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.05003pt}.
 
 [16]
-<./figures_aman/path_to_subset_forecast_plot.png, id=362, 600.5637pt x 381.5856
+<./figures_aman/path_to_subset_forecast_plot.png, id=417, 600.5637pt x 381.5856
 pt>
 File: ./figures_aman/path_to_subset_forecast_plot.png Graphic file (type png)
 <use ./figures_aman/path_to_subset_forecast_plot.png>
 Package pdftex.def Info: ./figures_aman/path_to_subset_forecast_plot.png  used 
 on input line 206.
 (pdftex.def)             Requested size: 317.07614pt x 201.47083pt.
-<./figures_aman/path_to_full_forecast_plot.png, id=364, 607.7907pt x 381.5856pt
+<./figures_aman/path_to_full_forecast_plot.png, id=419, 607.7907pt x 381.5856pt
 >
 File: ./figures_aman/path_to_full_forecast_plot.png Graphic file (type png)
 <use ./figures_aman/path_to_full_forecast_plot.png>
@@ -742,7 +742,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.05003pt}.
 
 [18]
-<./figures_aman/path_to_forecast_plot.png, id=380, 617.1858pt x 395.3169pt>
+<./figures_aman/path_to_forecast_plot.png, id=435, 617.1858pt x 395.3169pt>
 File: ./figures_aman/path_to_forecast_plot.png Graphic file (type png)
 <use ./figures_aman/path_to_forecast_plot.png>
 Package pdftex.def Info: ./figures_aman/path_to_forecast_plot.png  used on inpu
@@ -762,13 +762,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.05003pt}.
 
 [19 <./figures_aman/path_to_forecast_plot.png>]
-<./figures_aman/path_to_shap_rf_plot.png, id=391, 570.933pt x 360.6273pt>
+<./figures_aman/path_to_shap_rf_plot.png, id=446, 570.933pt x 360.6273pt>
 File: ./figures_aman/path_to_shap_rf_plot.png Graphic file (type png)
 <use ./figures_aman/path_to_shap_rf_plot.png>
 Package pdftex.def Info: ./figures_aman/path_to_shap_rf_plot.png  used on input
  line 266.
 (pdftex.def)             Requested size: 317.07614pt x 200.28809pt.
-<./figures_aman/path_to_shap_xgb_plot.png, id=392, 570.933pt x 360.6273pt>
+<./figures_aman/path_to_shap_xgb_plot.png, id=447, 570.933pt x 360.6273pt>
 File: ./figures_aman/path_to_shap_xgb_plot.png Graphic file (type png)
 <use ./figures_aman/path_to_shap_xgb_plot.png>
 Package pdftex.def Info: ./figures_aman/path_to_shap_xgb_plot.png  used on inpu
@@ -793,13 +793,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.05003pt}.
 
 [21 <./figures_aman/path_to_shap_xgb_plot.png>]
-<./figures_aman/path_to_rnn_subset_plot.png, id=409, 726.3135pt x 395.3169pt>
+<./figures_aman/path_to_rnn_subset_plot.png, id=465, 726.3135pt x 395.3169pt>
 File: ./figures_aman/path_to_rnn_subset_plot.png Graphic file (type png)
 <use ./figures_aman/path_to_rnn_subset_plot.png>
 Package pdftex.def Info: ./figures_aman/path_to_rnn_subset_plot.png  used on in
 put line 313.
 (pdftex.def)             Requested size: 317.07614pt x 172.58275pt.
-<./figures_aman/path_to_gru_subset_plot.png, id=410, 726.3135pt x 395.3169pt>
+<./figures_aman/path_to_gru_subset_plot.png, id=466, 726.3135pt x 395.3169pt>
 File: ./figures_aman/path_to_gru_subset_plot.png Graphic file (type png)
 <use ./figures_aman/path_to_gru_subset_plot.png>
 Package pdftex.def Info: ./figures_aman/path_to_gru_subset_plot.png  used on in
@@ -809,7 +809,7 @@ put line 320.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./figures_aman/path_to_lstm_subset_plot.png, id=411, 726.3135pt x 395.3169pt>
+<./figures_aman/path_to_lstm_subset_plot.png, id=467, 726.3135pt x 395.3169pt>
 File: ./figures_aman/path_to_lstm_subset_plot.png Graphic file (type png)
 <use ./figures_aman/path_to_lstm_subset_plot.png>
 Package pdftex.def Info: ./figures_aman/path_to_lstm_subset_plot.png  used on i
@@ -818,7 +818,7 @@ nput line 327.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./figures_aman/path_to_convlstm_subset_plot.png, id=412, 726.3135pt x 395.3169
+<./figures_aman/path_to_convlstm_subset_plot.png, id=468, 726.3135pt x 395.3169
 pt>
 File: ./figures_aman/path_to_convlstm_subset_plot.png Graphic file (type png)
 <use ./figures_aman/path_to_convlstm_subset_plot.png>
@@ -838,7 +838,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.05003pt}.
 
 [22 <./figures_aman/path_to_rnn_subset_plot.png>]
-<./figures_aman/path_to_rnn_full_plot.png, id=420, 726.3135pt x 395.3169pt>
+<./figures_aman/path_to_rnn_full_plot.png, id=476, 726.3135pt x 395.3169pt>
 File: ./figures_aman/path_to_rnn_full_plot.png Graphic file (type png)
 <use ./figures_aman/path_to_rnn_full_plot.png>
 Package pdftex.def Info: ./figures_aman/path_to_rnn_full_plot.png  used on inpu
@@ -848,7 +848,7 @@ t line 346.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./figures_aman/path_to_gru_full_plot.png, id=421, 726.3135pt x 395.3169pt>
+<./figures_aman/path_to_gru_full_plot.png, id=477, 726.3135pt x 395.3169pt>
 File: ./figures_aman/path_to_gru_full_plot.png Graphic file (type png)
 <use ./figures_aman/path_to_gru_full_plot.png>
 Package pdftex.def Info: ./figures_aman/path_to_gru_full_plot.png  used on inpu
@@ -857,7 +857,7 @@ t line 353.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./figures_aman/path_to_lstm_full_plot.png, id=422, 726.3135pt x 395.3169pt>
+<./figures_aman/path_to_lstm_full_plot.png, id=478, 726.3135pt x 395.3169pt>
 File: ./figures_aman/path_to_lstm_full_plot.png Graphic file (type png)
 <use ./figures_aman/path_to_lstm_full_plot.png>
 Package pdftex.def Info: ./figures_aman/path_to_lstm_full_plot.png  used on inp
@@ -866,7 +866,7 @@ ut line 360.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./figures_aman/path_to_convlstm_full_plot.png, id=423, 726.3135pt x 395.3169pt
+<./figures_aman/path_to_convlstm_full_plot.png, id=479, 726.3135pt x 395.3169pt
 >
 File: ./figures_aman/path_to_convlstm_full_plot.png Graphic file (type png)
 <use ./figures_aman/path_to_convlstm_full_plot.png>
@@ -950,13 +950,13 @@ Chapter 2.
 
 
 ]
-<./figures_amit/actual_vs_predicted.png, id=482, 867.24pt x 433.62pt>
+<./figures_amit/actual_vs_predicted.png, id=537, 867.24pt x 433.62pt>
 File: ./figures_amit/actual_vs_predicted.png Graphic file (type png)
 <use ./figures_amit/actual_vs_predicted.png>
 Package pdftex.def Info: ./figures_amit/actual_vs_predicted.png  used on input 
 line 40.
 (pdftex.def)             Requested size: 362.37569pt x 181.18623pt.
-<./figures_amit/actual_vs_predicted_rf.png, id=483, 867.24pt x 433.62pt>
+<./figures_amit/actual_vs_predicted_rf.png, id=538, 867.24pt x 433.62pt>
 File: ./figures_amit/actual_vs_predicted_rf.png Graphic file (type png)
 <use ./figures_amit/actual_vs_predicted_rf.png>
 Package pdftex.def Info: ./figures_amit/actual_vs_predicted_rf.png  used on inp
@@ -966,7 +966,7 @@ ut line 47.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./figures_amit/actual_vs_predicted_sarima.png, id=484, 867.24pt x 433.62pt>
+<./figures_amit/actual_vs_predicted_sarima.png, id=539, 867.24pt x 433.62pt>
 File: ./figures_amit/actual_vs_predicted_sarima.png Graphic file (type png)
 <use ./figures_amit/actual_vs_predicted_sarima.png>
 Package pdftex.def Info: ./figures_amit/actual_vs_predicted_sarima.png  used on
@@ -975,7 +975,7 @@ Package pdftex.def Info: ./figures_amit/actual_vs_predicted_sarima.png  used on
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./figures_amit/distribution_closing_price_diff.png, id=486, 722.7pt x 433.62pt
+<./figures_amit/distribution_closing_price_diff.png, id=541, 722.7pt x 433.62pt
 >
 File: ./figures_amit/distribution_closing_price_diff.png Graphic file (type png
 )
@@ -996,7 +996,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [31 <./figures_amit/actual_vs_predicted.png>]
-<./figures_amit/model_comparison_train.png, id=497, 722.7pt x 433.62pt>
+<./figures_amit/model_comparison_train.png, id=552, 722.7pt x 433.62pt>
 File: ./figures_amit/model_comparison_train.png Graphic file (type png)
 <use ./figures_amit/model_comparison_train.png>
 Package pdftex.def Info: ./figures_amit/model_comparison_train.png  used on inp
@@ -1037,24 +1037,106 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [34 <./figures_amit/model_comparison_train.png>]
 \openout2 = `adarsh.aux'.
 
- (./adarsh.tex)
+ (./adarsh.tex
+Chapter 3.
+
+
+[35
+
+
+
+
+]
+<./figures_adarsh/Distribution_Sales .png, id=578, 871.255pt x 547.04375pt>
+File: ./figures_adarsh/Distribution_Sales .png Graphic file (type png)
+<use ./figures_adarsh/Distribution_Sales .png>
+Package pdftex.def Info: ./figures_adarsh/Distribution_Sales .png  used on inpu
+t line 27.
+(pdftex.def)             Requested size: 362.37569pt x 227.52809pt.
+<./figures_adarsh/Weekly_Sale_by_Store.png, id=579, 909.3975pt x 554.07pt>
+File: ./figures_adarsh/Weekly_Sale_by_Store.png Graphic file (type png)
+<use ./figures_adarsh/Weekly_Sale_by_Store.png>
+Package pdftex.def Info: ./figures_adarsh/Weekly_Sale_by_Store.png  used on inp
+ut line 37.
+(pdftex.def)             Requested size: 362.37569pt x 220.78708pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[36 <./figures_adarsh/Distribution_Sales .png>]
+<./figures_adarsh/Sales_forecasting.png, id=589, 909.3975pt x 484.81125pt>
+File: ./figures_adarsh/Sales_forecasting.png Graphic file (type png)
+<use ./figures_adarsh/Sales_forecasting.png>
+Package pdftex.def Info: ./figures_adarsh/Sales_forecasting.png  used on input 
+line 51.
+(pdftex.def)             Requested size: 362.37569pt x 193.18869pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./figures_adarsh/LSTM.png, id=590, 909.3975pt x 603.25375pt>
+File: ./figures_adarsh/LSTM.png Graphic file (type png)
+<use ./figures_adarsh/LSTM.png>
+Package pdftex.def Info: ./figures_adarsh/LSTM.png  used on input line 61.
+(pdftex.def)             Requested size: 362.37569pt x 240.38594pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[37 <./figures_adarsh/Weekly_Sale_by_Store.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[38 <./figures_adarsh/Sales_forecasting.png> <./figures_adarsh/LSTM.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[39])
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[40]
 \openout2 = `akash.aux'.
 
- (./akash.tex)
-(./main.aux (./titlepage.aux) (./acknowledgement.aux) (./abstract.aux)
-(./aman.aux) (./amit.aux) (./adarsh.aux) (./akash.aux))
+ (./akash.tex) (./main.aux (./titlepage.aux) (./acknowledgement.aux)
+(./abstract.aux) (./aman.aux) (./amit.aux) (./adarsh.aux) (./akash.aux))
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: B715E2093D3F10DC746768B88A0FE429;8625.
+(rerunfilecheck)             Checksum: 546DA3FFAF8A247C0F7EA9F79A486B5E;10405.
  ) 
 Here is how much of TeX's memory you used:
- 11270 strings out of 475171
- 179122 string characters out of 5767103
- 587725 words of memory out of 5000000
- 33966 multiletter control sequences out of 15000+600000
+ 11341 strings out of 475171
+ 180870 string characters out of 5767103
+ 588050 words of memory out of 5000000
+ 34011 multiletter control sequences out of 15000+600000
  566436 words of font info for 62 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  75i,12n,79p,1640b,574s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1069,10 +1151,10 @@ public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmsy8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb
 ></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/t
 exmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on main.pdf (35 pages, 3410991 bytes).
+Output written on main.pdf (41 pages, 3789241 bytes).
 PDF statistics:
- 600 PDF objects out of 1000 (max. 8388607)
- 480 compressed objects within 5 object streams
- 125 named destinations out of 1000 (max. 500000)
- 491 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 706 PDF objects out of 1000 (max. 8388607)
+ 571 compressed objects within 6 object streams
+ 151 named destinations out of 1000 (max. 500000)
+ 599 words of extra memory for PDF output out of 10000 (max. 10000000)
 
