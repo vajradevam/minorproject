@@ -42,4 +42,3 @@ Each directory in `./src` consists of one of the problems assigned. Each person 
 Because each member might have different Operating system / Workflow; for easy asssesment we have decided to keep a single requirement file and python version. The python version can be found in [python-version](.python-version) file.
 
 Any potential users are required to hence install the mentioned python version. Next, they are required to install the requirements, after making a virtual environment in the aforementioned python version. They can then continue into [`src`](src/) directory to evaluate the projects.
-# minorproject
