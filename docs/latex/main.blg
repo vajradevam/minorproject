@@ -1,16 +1,27 @@
-This is BibTeX, Version 0.99d (TeX Live 2025/Arch Linux)
+This is BibTeX, Version 0.99d
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
 A level-1 auxiliary file: titlepage.aux
+Reallocating 'name_of_file' (item size: 1) to 20 items.
+A level-1 auxiliary file: acknowledgement.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+A level-1 auxiliary file: abstract.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
 A level-1 auxiliary file: aman.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
 The style file: unsrt.bst
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+Reallocating 'name_of_file' (item size: 1) to 9 items.
 A level-1 auxiliary file: amit.aux
+Reallocating 'name_of_file' (item size: 1) to 11 items.
 A level-1 auxiliary file: adarsh.aux
+Reallocating 'name_of_file' (item size: 1) to 10 items.
 A level-1 auxiliary file: akash.aux
 Database file #1: references_aman.bib
 You've used 5 entries,
             1791 wiz_defined-function locations,
-            479 strings with 4111 characters,
+            481 strings with 4142 characters,
 and the built_in function-call counts, 875 in all, are:
 = -- 73
 > -- 31

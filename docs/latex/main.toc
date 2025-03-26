@@ -62,3 +62,16 @@
 \contentsline {subsection}{\numberline {3.5.3}LSTM Model}{39}{subsection.3.5.3}%
 \contentsline {section}{\numberline {3.6}Humanized Perspective}{40}{section.3.6}%
 \contentsline {section}{\numberline {3.7}Discussion}{40}{section.3.7}%
+\contentsline {chapter}{\numberline {4}Predictive Maintenance Time Series Analysis}{41}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Introduction}{41}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Dataset Overview}{41}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Preprocessing Steps}{42}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Machine Learning Pipeline}{42}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Algorithm}{42}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Hyperparameter Tuning}{43}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}Evaluation Metrics}{43}{subsection.4.4.3}%
+\contentsline {section}{\numberline {4.5}Visualizations}{43}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Class Distribution Comparison}{43}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}Evaluation Metrics Visualization}{43}{subsection.4.5.2}%
+\contentsline {subsection}{\numberline {4.5.3}Confusion Matrix}{43}{subsection.4.5.3}%
+\contentsline {section}{\numberline {4.6}Conclusion}{43}{section.4.6}%
